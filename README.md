@@ -18,7 +18,7 @@ This book covers the following exciting features:
 * Gain insight into when and how to apply different testing elements
 * Defend your chosen testing strategy with a comprehensive understanding of its components
 
-If you feel this book is for you, get your [copy](amazon_link) today!
+If you feel this book is for you, get your [copy](https://www.amazon.com/Software-Testing-Strategies-Guide-2020s-ebook/dp/B0CLLDMJW9/ref=sr_1_1?crid=14K3E4P6NMFIR&keywords=Software+Testing+Strategies+Packt&qid=1701429115&sprefix=software+testing+strategies+packt%2Caps%2C285&sr=8-1) today!
 
 
 ## Instructions and Navigations
