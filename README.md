@@ -44,13 +44,12 @@ With the following software and hardware list you can run all code files present
 | 1-16 | Ruby | Windows, macOS, Linux |
 | 1-16 | JMeter | Windows, macOS, Linux |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/
-Software-Testing-Strategies_ColorImages.pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/Software-Testing-Strategies_ColorImages.pdf).
 
 ### Related products
-* Software Test Design [Packt](https://www.packtpub.com/product/software-test-design/9781804612569) [Amazon](https://www.amazon.com/Software-Test-Design-comprehensive-critical/dp/1804612561/ref=sr_1_3?crid=1XFZRKCWH4ZL1&keywords=Software+Test+Design&qid=1701427938&sprefix=software+test+design%2Caps%2C515&sr=8-3)
+* Software Test Design [[Packt]](https://www.packtpub.com/product/software-test-design/9781804612569) [[Amazon]](https://www.amazon.com/Software-Test-Design-comprehensive-critical/dp/1804612561/ref=sr_1_3?crid=1XFZRKCWH4ZL1&keywords=Software+Test+Design&qid=1701427938&sprefix=software+test+design%2Caps%2C515&sr=8-3)
 
-* Test Automation Engineering Handbook [Packt](https://www.packtpub.com/product/test-automation-engineering-handbook/9781804615492) [Amazon](https://www.amazon.com/Test-Automation-Engineering-Handbook-techniques/dp/1804615498/ref=sr_1_1?crid=1IB51DXY0DU0O&keywords=test+automation+engineering+handbook&qid=1701428106&sprefix=Test+Auto%2Caps%2C306&sr=8-1)
+* Test Automation Engineering Handbook [[Packt]](https://www.packtpub.com/product/test-automation-engineering-handbook/9781804615492) [[Amazon]](https://www.amazon.com/Test-Automation-Engineering-Handbook-techniques/dp/1804615498/ref=sr_1_1?crid=1IB51DXY0DU0O&keywords=test+automation+engineering+handbook&qid=1701428106&sprefix=Test+Auto%2Caps%2C306&sr=8-1)
 
 ## Get to Know the Author
 **Matthew Heusser**
