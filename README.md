@@ -54,9 +54,9 @@ Software-Testing-Strategies_ColorImages.pdf).
 
 ## Get to Know the Author
 **Matthew Heusser**
-is the Managing Director at Excelon Development, where he specializes in Software Delivery, DevOps, and Testing across diverse industries such as software, fintech, and automotive. With a Master's degree from Grand Valley State University and a remarkable track record, Matt has earned international recognition through awards and delivered keynote speeches that have left lasting impressions.
+is the Managing Director at Excelon Development, where he specializes in Software Delivery, DevOps, and Testing across diverse industries such as software, fintech, and automotive. With a Master's degree from Grand Valley State University and a remarkable track record, Matthew has earned international recognition through awards and delivered keynote speeches that have left lasting impressions.
 Matthew's legacy in the tech world includes pioneering the world's first multi-user distributed spreadsheet, a groundbreaking innovation that predates even Google Sheets. His expertise extends to project rescue initiatives, including one initiated by BMW's board of directors, where he demonstrated his exceptional leadership and problem-solving skills.
-In addition to his hands-on contributions, Matt has effectively managed API test development teams and provided invaluable support to developers.
+In addition to his hands-on contributions, Matthew has effectively managed API test development teams and provided invaluable support to developers.
 Matthew Heusser's career is a testament to his unwavering commitment to pushing the boundaries of technology, delivering outstanding results, and inspiring the next generation of innovators in the software and technology landscape.
 
 **Michael Larson**
